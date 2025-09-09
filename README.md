@@ -5,57 +5,41 @@ This project analyzes how students and academics experience two leading large la
 ## Research Goals
 
 - Compare user trust and satisfaction across ChatGPT and Gemini for academic tasks
-
 - Identify pain points and positive experiences influencing model preference
-
 - Understand user archetypes (Technical Problem-Solver, Writer/Creator, Learner)
-
 - Provide strategic recommendations for improving academic LLM UX
 
 ## Methodology
 
 - Data collection: 46 user experience instances from Reddit (LLM-focused communities) and comparative articles
-
 - Data preparation: Cleaning and structuring in Python (pandas)
 
 ## Analysis
 
 - Trust & satisfaction coding
-
 - Sentiment analysis with VADER NLP
-
 - Thematic analysis for pain points & highlights
-
 - Visualization: Matplotlib for task-level comparisons
 
 ## Key Findings
 
 - ChatGPT: Higher trust & satisfaction for coding, reasoning, research; valued for study support
-
 - Gemini: Stronger in data analysis, writing, summarization; users reported 56% more positive sentiment overall
-
 - Pain points: ChatGPT → accuracy issues; Gemini → distributed frustrations (engagement, contextualization, task execution)
-
 - Archetypes: Technical Problem-Solver, Writer/Creator, Learner
 
 ## Tools & Skills
 
 - Python (Pandas, NumPy, Matplotlib)
-
 - Natural Language Processing (VADER Sentiment Analysis)
-
 - User Research & Thematic Analysis
-
 - Data Visualization & Storytelling
-
 - Strategic UX Recommendations
 
 ## Repo Contents
 
 - vader.ipynb – Sentiment analysis notebook
-
 - analysis.ipynb – Data prep, trust/satisfaction coding, thematic analysis, visualizations
-
 - updated_data.csv – Raw data
 
 ## How to Run
